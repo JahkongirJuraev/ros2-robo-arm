@@ -14,8 +14,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='user',
-    maintainer_email='antonio.brandi@outlook.it',
-    description='ROS 2 Code Examples',
+    maintainer_email='jakhongirkhujajuraev@gmail.com',
+    description='ROS 2 Robo Arm',
     license='Apache 2.0',
     tests_require=['pytest'],
     entry_points={
